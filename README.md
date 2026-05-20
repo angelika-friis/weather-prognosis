@@ -1,6 +1,6 @@
-# Weather app
+# Weather prognosis
 
-I detta projekt har jag utvecklat en väderapplikation med React. Applikationen hämtar aktuell väderdata från [SMHI:s](https://opendata.smhi.se/metfcst/pmp/introduction) och [yr.no:s](https://api.met.no/weatherapi/sunrise/3.0/documentation) API:er. Geografisk information hämtas från [OpenStreetMap Nominatim](https://nominatim.org/release-docs/develop/api/Lookup/) med API.
+I detta projekt har jag utvecklat en sida för väder prognos med React. Applikationen hämtar aktuell väderdata från [SMHI:s](https://opendata.smhi.se/metfcst/pmp/introduction) och [yr.no:s](https://api.met.no/weatherapi/sunrise/3.0/documentation) API:er. Geografisk information hämtas från [OpenStreetMap Nominatim](https://nominatim.org/release-docs/develop/api/Lookup/) med API.
 
 
 ## Funktionalitet
@@ -58,8 +58,8 @@ Hur man kan göra en search bar i React:
 Fetch:
 - https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
 
-Costume hook for determining window size
--https://usehooks.com/usewindowsize
+Costume hook for determining window size:
+- https://usehooks.com/usewindowsize
 
 Funktion för att räkna ut vädersträck från grader:
 - https://stackoverflow.com/questions/48750528/get-direction-from-degrees
