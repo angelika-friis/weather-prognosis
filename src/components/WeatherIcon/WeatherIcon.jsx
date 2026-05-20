@@ -1,5 +1,5 @@
 import { getWeatherIcon } from "../../utils/getWeatherIcon";
-import styles from './weatherIcon.module.css';
+//import styles from './weatherIcon.module.css';
 import { isItDayTime } from "../../utils/isItDayTime";
 
 const WeatherIcon = ({ className, iconValue, sunTime, date }) => {
